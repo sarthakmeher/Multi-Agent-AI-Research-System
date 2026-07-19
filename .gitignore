@@ -1,0 +1,9 @@
+Set-Content .gitignore ".env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.lock
+CACHEDIR.TAG
+pyvenv.cfg"
